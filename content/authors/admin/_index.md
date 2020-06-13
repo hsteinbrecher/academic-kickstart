@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hendrik Steinbrecher
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Dortmund University
+  url: "https://www.wiwi2.tu-dortmund.de/wiwi/mak/de/lehrstuhl/team/WMA-DOC/MAK-HEST.html"
+- name: RGS Econ
+  url: "http://rgs-econ.org/people/studentsfinish/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Empirical Macroeconomics
+- Economic History
+- Fiscal Policy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: M.Sc. in Economics
+    institution: University of Cologne
+    year: 2015
+  - course: B.Sc. in Economics and Business Administration
+    institution: Goethe University Frankfurt 
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
