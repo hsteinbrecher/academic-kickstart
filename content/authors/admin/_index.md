@@ -17,7 +17,7 @@ organizations:
 - name: Dortmund University
   url: "https://www.wiwi2.tu-dortmund.de/wiwi/mak/de/lehrstuhl/team/WMA-DOC/MAK-HEST.html"
 - name: RGS Econ
-  url: "http://rgs-econ.org/people/studentsfinish/"
+  url: "http://rgs-econ.org/people/studentsfinish/#container_1585"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
