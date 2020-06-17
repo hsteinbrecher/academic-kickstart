@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "modern"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -97,7 +97,7 @@ address = {street = "Vogelpothsweg 87", city = "Dortmund", postcode = "44227", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.491886", longitude = "7.415031"}
+coordinates = {latitude = "51.491906", longitude = "7.415122"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -182,6 +182,7 @@ plugins_js  = []
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
+  avatar = "portrait.jpg"
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
