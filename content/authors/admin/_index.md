@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hendrik.steinbrecher@tu-dortmund.de'  # For a direct email link, use "mailto:test@example.org".
-- icon = linkedin
-  icon_pack = fa
-  link = www.linkedin.com/in/hendrik-steinbrecher
+#- icon = linkedin
+#  icon_pack = fa
+#  link = www.linkedin.com/in/hendrik-steinbrecher
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
