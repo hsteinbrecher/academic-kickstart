@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Macroeconomics and Economic History at Dortmund University.
+I am a PhD Candidate in Economics at Dortmund University.
 
 My research interests are at the intersection of economic history and macroeconomics. In particular I am focusing on Fiscal Policy in the German interwar era.
