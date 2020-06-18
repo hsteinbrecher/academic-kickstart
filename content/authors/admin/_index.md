@@ -49,7 +49,7 @@ social:
   link: https://www.linkedin.com/in/hendrik-steinbrecher
 - icon: xing
   icon_pack: fab
-  link: https://www.linkedin.com/in/hendrik-steinbrecher
+  link: https://www.xing.com/profile/Hendrik_Steinbrecher/
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
