@@ -89,15 +89,15 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hendrik.steinbrecher@tu-dortmund.de"
-phone = "+49 231 755 4495"
+# phone = "+49 231 755 4495"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Vogelpothsweg 87", city = "Dortmund", postcode = "44227", country = "Germany", country_code = "de"}
+address = {street = "Wilhelmstraße 97", city = "Berlin", postcode = "10117", country = "Germany", country_code = "de"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.491906", longitude = "7.415122"}
+coordinates = {latitude = "52.50911840704216", longitude = "13.384182099936838"}
 #coordinates = {latitude = "51.491870", longitude = "7.415037"}
 
 # Directions for visitors to locate you.
