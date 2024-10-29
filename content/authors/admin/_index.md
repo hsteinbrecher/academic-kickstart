@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Economist
 
 # Organizations/Affiliations
 organizations:
 - name: Dortmund University
-  url: "https://www.wiwi2.tu-dortmund.de/wiwi/mak/de/lehrstuhl/team/WMA-DOC/MAK-HEST.html"
+  url: "https://makro.wiwi.tu-dortmund.de/professur/ehemalige/"
 - name: RGS Econ
-  url: "http://rgs-econ.org/people/studentsfinish/#container_1906"
+  url: "https://www.rgs-econ.org/people/alumni"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Economics
+    institution: TU Dortmund University
+    year: 2024
   - course: M.Sc. in Economics
     institution: University of Cologne
     year: 2015
@@ -75,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Economics at Dortmund University.
+I am an economist at the Federal Ministry of Finance.
 
-My research interests are at the intersection of economic history and macroeconomics. In particular I am focusing on Fiscal Policy in the German interwar era.
+Previously, I earned a PhD from TU Dortmund University. My research interests lay at the interface of economic history and macroeconomics. In particular, I focussed on fiscal policy in the German interwar period.
