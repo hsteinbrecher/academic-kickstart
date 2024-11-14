@@ -1,0 +1,71 @@
++++
+title = "Taxing high and paying low - Essays on German Fiscal Policy between the Wars"
+date = "2024-01-31"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+
+authors = ["Hendrik Steinbrecher"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["5"]
+
+# Publication name and optional abbreviated version.
+publication = "PhD thesis, Dortmund"
+#publication_short = ""
+
+# Abstract and optional shortened version.
+abstract = "This thesis examines the employment and tax multipliers of German fiscal policy between the World Wars. Chapter 1 offers an introductory overview. Chapter 2 estimates the regional job multipliers of public job creation schemes financed by the German unemployment insurance between 1933 and 1937. The financial outlay associated with one year of employment in these programmes was found to be 706 RM, a figure that is marginally higher than the rate of unemployment benefits but represents approximately half the average annual wage at the time. The limited additional income generated in comparison to unemployment leaves scant evidence of second-round multiplier effects. Expansionary employment effects were largely limited to the scope of the Nazi programmes themselves. The following two chapters present a qualitative analysis of changes to tax law and a quantitative analysis of the macroeconomic effects of tax changes in the German interwar period. For econometric identification, Chapter 3 develops a novel narrative dataset of tax law changes between 1925 and 1939 and isolates exogenous variation in fiscal policy based on their underlying motivations. In this comprehensive historical account, each amendment is contextualised and supplemented with projected revenue changes using archival material. Chapter 4 addresses the estimation of tax multipliers utilising the previously developed data set. The sign and level of the multiplier are contingent upon whether Brüning's austerity policy between 1930 and 1932 is classified as exogenous or endogenous. Assuming endogeneity, the multiplier takes on a value of up to 2.5, indicating non-standard evidence as a tax increase is associated with an expansionary effect. Conversely, if one adheres to the reasoning of the Borchardt debate and assumes exogeneity for these measures, the standard evidence of an inverse relationship is restored, with the multiplier peaking at -1.5. Finally, Chapter 5 draws implications for academic discourse in economics and history."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#projects = ["example-external-project"]
+
+# Links (optional).
+url_pdf = "https://eldorado.tu-dortmund.de/bitstreams/b814c10f-fc23-40e8-ba39-bafcd31b44d4/download"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#[[url_custom]]
+#name = "Published Version"
+#url = "https://www.sciencedirect.com/science/article/pii/S0014292116300551"
+
+#[[url_custom]]
+#name = "Cite"
+#url = "https://drive.google.com/open?id=1L4wPiFFzV7JfbBlkozu639YLxQTcdbN_"
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+  
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+#image = ""
+#caption = "My caption :smile:"
+
++++
